@@ -1,3 +1,2 @@
-# AAI
+<h1 align="center"> IMATO Tomato Leaf Classification</h1>
 
-### link dataset (https://drive.google.com/file/d/1XOLxJdzcUDRvJibv6lKdCHScv1PIlhUY/view?usp=sharing)
