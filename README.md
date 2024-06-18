@@ -29,3 +29,8 @@ Tomato farming is one of the vital sectors in the Indonesian agricultural indust
 
 ## C. Goals
 The main goal of the "Tirta Voyageurs" team in developing the "Imato" project is to provide innovative and effective AI technology-based solutions in helping tomato farmers overcome plant disease problems. Using artificial intelligence, we want to create a platform that is able to quickly and accurately diagnose tomato plant diseases through analysis of leaf images uploaded by users.
+
+# Dataset
+We use the "Tomato Leaf Disease" dataset sourced from the Kaggle.com website. This dataset has 10 directories which are categorized as diseases of tomato plants. Each directory in the dataset provides images of leaves that have disease characteristics. This dataset will be used by the AI ​​model as training material after the cleaning and preprocessing stages have been completed.
+<br>
+[Dataset Link](https://drive.google.com/file/d/1XOLxJdzcUDRvJibv6lKdCHScv1PIlhUY/view?usp=sharing)
